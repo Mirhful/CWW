@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="backgrounds">
+    <file>Main_menu_medium.png</file>
+    <file>Main_menu_small.png</file>
+    <file>background_forest.jpg</file>
+    <file>background_lava.jpg</file>
+    <file>background_rain.jpg</file>
+    <file>gory_tuman_snezhnyj_168215_3840x2160.jpg</file>
+    <file>ozero_les_sneg_130421_2560x1440.jpg</file>
+    <file>./done_backgrounds/background_rain.jpg</file>
+    <file>./done_backgrounds/First_Menu.png</file>
+  </qresource>
+</RCC>

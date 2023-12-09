@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>bootstrap-icons-1.9.1/clock-white.svg</file>
+    <file>bootstrap-icons-1.9.1/thermometer-snow-white.svg</file>
+    <file>bootstrap-icons-1.9.1/thermometer-sun-pink.svg</file>
+    <file>bootstrap-icons-1.9.1/1-circle.svg</file>
+    <file>project_icons/thermometer-half_white.svg</file>
+    <file>project_icons/c3_r2.svg</file>
+    <file>bootstrap-icons-1.9.1/gear.svg</file>
+    <file>project_icons/info-circle1.svg</file>
+    <file>project_icons/clock1.svg</file>
+    <file>project_icons/thermometer-half1.svg</file>
+  </qresource>
+</RCC>
